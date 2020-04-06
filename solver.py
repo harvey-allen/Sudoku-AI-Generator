@@ -3,6 +3,7 @@ import random
 
 #Defining the variables
 soloutions = 0
+#The addition of a new grid would improve the number of viable grids that can be produced
 originalGrid = [[4, 5, 8, 7, 3, 9, 6, 1, 2],
 [2, 6, 9, 4, 5, 1, 3, 8, 7],
 [7, 3, 1, 2, 6, 8, 5, 9, 4],
